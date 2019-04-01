@@ -10,6 +10,8 @@ public class SystemUser {
     private String pwd1;
     private String status1;
     private Long roleId1;
+    
+    //亚索到此一游
 
     public Long getId1() {
         return id1;
